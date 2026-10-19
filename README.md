@@ -4,6 +4,13 @@
 This repository contains the R prediction corpus and the four functions for
 Problem Set 2. The assignment manual defines the work and the submission rules.
 
+## Members
+
+| Name | GitHub |
+|---|---|
+| Andrian Lloyd Maagma | [@andrianllmm](https://github.com/andrianllmm) |
+| Angelique Margaret Ardeña | [@elirvrrii](https://github.com/elirvrrii) |
+
 ## Layout
 
 ```text
